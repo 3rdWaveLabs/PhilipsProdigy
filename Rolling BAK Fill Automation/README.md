@@ -20,7 +20,7 @@ Below are the steps to using Xloader:
 ## Using XLoader
 Xloader has 4 main input fields: Hex file, Device, COM port, and Baud rate
 
-![](../tools/images/shrink_xloader.png)
+![](/Tools/images/shrink_xloader.png)
 
 Plug in the controller to the computer using the usb port on the controller.
 
