@@ -4,7 +4,7 @@
 
 ## [Philips Prodigy Rolling BAK Fill Automation](/Rolling%20BAK%20Fill%20Automation/)
 
-## [Philips Prodigy Flex Insertion](/Scanner%20Insertion/)
+## [Philips Prodigy Flex Insertion](/Flex%20Insertion/)
 
 ## [Philips Prodigy Weld](/Weld/)
 
