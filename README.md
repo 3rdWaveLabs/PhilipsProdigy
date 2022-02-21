@@ -1,4 +1,4 @@
-![](/tools/images/3rdWave_Window_Icon.png) ![](/tools/images/Philips-Logo.png)
+![](/Tools/images/3rdWave_Window_Icon.png) ![](/Tools/images/Philips-Logo.png)
 # Centralized repository for Philips Prodigy projects
 ## [Philips Prodigy PnP](./PnP)
 
