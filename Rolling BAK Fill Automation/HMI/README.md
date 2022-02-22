@@ -43,3 +43,5 @@
 
     * USB is properly connected
 2. Add the server to the list with the corresponding button at the top bar of the server list page.
+3. If communication is behaving properly, from the top right app menu, select **Workspace Save**
+![](/Tools/images/HMIModbusViewerWorkspaceSave.jpg)
