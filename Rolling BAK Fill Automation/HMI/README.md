@@ -37,7 +37,7 @@
 
 ### If the server is not in the list
 1. ensure the device is connected
-    * Bluetooth is paired to Tablet
+    * [Bluetooth is paired to Tablet](https://support.google.com/android/answer/9075925?hl=en)
 
     or
 
