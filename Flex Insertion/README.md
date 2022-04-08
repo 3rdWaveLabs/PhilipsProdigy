@@ -32,7 +32,8 @@ Open the *XLoader.exe* within the XLoader folder
 4. Set the *Baud Rate* field to: **115200**
 5. Click upload
 
-![](../tools/images/flex_insertion_box.jpg)
+![](/Tools/images/flex_insertion_box.jpg)
+
 #
 ## Realterm
 Realterm is our prefered terminal program for intefacing over serial.
