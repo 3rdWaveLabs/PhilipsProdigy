@@ -42,7 +42,13 @@ for line in data:
     # place entries in lists
     try:
         Time = float(entries[0])
-        if ((Time > 0 and Time < 26) or (Time > 70 and Time < 87) or (Time > 124 and Time < 146) or (Time > 175 and Time < 179) or (Time > 230 and Time < 360)):
+        Setpoint = float(entries[9])
+        if ((Time > 0 and Time < 26) 
+        or (Time > 70 and Time < 87) 
+        or (Time > 124 and Time < 146) 
+        or (Time > 175 and Time < 179) 
+        or (Time > 230 and Time < 360)
+        and (Setpoint != 0.0)):
             heater1T.append(float(entries[1]))
             heater1R.append(float(entries[2]))
             heater2T.append(float(entries[3]))
